@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Buktal 👋
 
-<!--
-**Buktal/Buktal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 **Focusing on**: AI Tools / Agent Architecture / Full-stack Development
+- 💬 **Ask me about**: Java, Rust, React, AI Applications
+- 📫 **How to reach me**: is.buktal@gmail.com
+- ⚡ **Quote**: *Code is written for humans to read, machines just happen to run it.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages & Tools**
+`Java` `Rust` `TypeScript` `JavaScript` `React` `CSS/Less`
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🚀 [cc-one](https://github.com/Buktal/cc-one) | Desktop dashboard for AI coding CLIs (Claude Code, Gemini CLI, etc.) | `Rust` `React` |
+| 🛠️ [deepseek-desktop](https://github.com/Buktal/deepseek-desktop) | Cross-platform desktop client for DeepSeek Harness | `Rust` `TypeScript` |
+| 🤖 [skills](https://github.com/Buktal/skills) | Open-source, ready-to-use agent skills and subagent dispatcher | `AI Agents` |
+
+---
+
+### 📊 GitHub Stats
+
+![Buktal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buktal&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buktal&layout=compact&theme=dark)
