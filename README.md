@@ -24,8 +24,3 @@
 | 🤖 [skills](https://github.com/Buktal/skills) | Open-source, ready-to-use agent skills and subagent dispatcher | `AI Agents` |
 
 ---
-
-### 📊 GitHub Stats
-
-![Buktal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buktal&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buktal&layout=compact&theme=dark)
